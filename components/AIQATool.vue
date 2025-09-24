@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { ref } from 'vue'
 
-const url = ref('http://localhost:3030')
+const url = ref('https://techdebt-slides.netlify.app')
 const testPrompts = ref('Check if the homepage loads successfully\nVerify the navigation menu is visible\nConfirm the search bar is functional')
 </script>
 
